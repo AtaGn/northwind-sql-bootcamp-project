@@ -31,7 +31,7 @@ Bu projede aşağıdaki SQL sorguları ve analizler gerçekleştirilmiştir:
 23. Hiç sipariş vermemiş müşterilerin listesi
 24. En yüksek 5 nakliye maliyetine sahip sipariş
 
-Tüm sorgulara `sql.txt` dosyasından ulaşabilirsiniz.
+Tüm sorgulara `teachcareer_sql_bootcamp_project.sql` dosyasından ulaşabilirsiniz.
 
 ---
 
