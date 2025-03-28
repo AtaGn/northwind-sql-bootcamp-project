@@ -2,6 +2,20 @@
 
 Bu depo, **TeachCareer Database Management Bootcamp with SQL** eğitimi kapsamında gerçekleştirdiğim bitirme projesine aittir. Projede, SQL Server (MSSQL) üzerinde **Northwind veritabanı** kullanılarak çeşitli SQL senaryoları üzerinde çalışılmıştır.
 
+---
+
+## 📽️ Proje Sunumu
+
+👉 Sunuma aşağıdaki bağlantıdan ulaşabilirsiniz:  
+🔗 [Canva Sunum Linki](https://www.canva.com/design/DAGi97brGdQ/quqGcuIJLUDRM0NpsqHhtg/edit?utm_content=DAGi97brGdQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Sunum dosyası, proje çıktıları, kullanılan teknolojiler ve ekran görüntülerini içermektedir.
+
+---
+
+
+
+
 ## 📌 Proje İçeriği
 
 Bu projede aşağıdaki SQL sorguları ve analizler gerçekleştirilmiştir:
@@ -45,3 +59,5 @@ Tüm sorgulara `teachcareer_sql_bootcamp_project.sql` dosyasından ulaşabilirsi
 | **Git / GitHub** | Sürüm kontrol ve proje paylaşımı |
 
 ---
+
+
